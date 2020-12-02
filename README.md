@@ -1,2 +1,2 @@
-# javascript-project-2
-Normal Calculator
+# Normal Calculator Using javascript
+
